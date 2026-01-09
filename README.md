@@ -1,4 +1,4 @@
-** Portfolio Website Project Report ** 
+
 ## Project Overview
 The Portfolio Website Project is a personal web development project designed to showcase skills, projects, and achievements in a clean and interactive way. The website is built using HTML, CSS, and JavaScript, focusing on responsive design principles and smooth navigation. The main goal of this project is to create a professional and visually appealing online presence that highlights academic, technical, and creative capabilities.
 
