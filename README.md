@@ -7,9 +7,13 @@ The Portfolio Website consists of multiple interconnected sections that together
 
 ## Objectives
 • Develop a fully responsive and visually appealing personal portfolio website.
+
 • Demonstrate frontend development proficiency using HTML, CSS, and JavaScript.
+
 • Integrate sections for projects, resume, and contact details.
+
 • Ensure cross-browser compatibility and fast loading performance.
+
 • Deploy the website on GitHub Pages for public access.
 
 ## Tools & Techniques
