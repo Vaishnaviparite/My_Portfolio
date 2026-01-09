@@ -18,33 +18,51 @@ The Portfolio Website consists of multiple interconnected sections that together
 
 ## Tools & Techniques
 • HTML5: For defining the structure and layout of the web pages.
+
 • CSS3: For designing and styling elements with animations, gradients, and responsive layouts.
+
 • JavaScript: For dynamic interactivity, form validation, and smooth transitions.
+
 • Visual Studio Code: As the integrated development environment (IDE).
+
 • Git & GitHub: For version control and online hosting of the portfolio.
 
 ## Features Implemented
 • Responsive Design: The layout adjusts automatically to desktop, tablet, and mobile views.
+
 • Interactive Navigation: Smooth scrolling and highlight effects for easy section access.
+
 • Project Gallery: Displays key projects such as the Zepto Dashboard, Machine Learning models, and SQL analysis.
+
 • Resume Integration: Embedded or downloadable resume option for visitors.
+
 • Contact Form: Allows users to send messages directly.
+
 • Skill Showcase: Visual representation of technical skills using images and icons.
 
 ## Deliverables
 • Fully functional portfolio website hosted on GitHub Pages.
+
 • Source code including HTML, CSS, JavaScript, and assets.
+
 • Organized project folder structure with assets, scripts, and styles.
+
 • Word report documentation outlining development details (this file).
 
 ## Key Highlights
 • Developed a user-friendly, visually aesthetic, and professional web portfolio.
+
 • Successfully integrated dynamic elements without using external frameworks.
+
 • Ensured smooth performance and responsiveness across all major browsers.
+
 • Deployed the project seamlessly using GitHub Pages.
 
 ## Future Enhancements
 • Add dark/light mode toggle for better accessibility.
+
 • Integrate backend functionality for real-time message storage using Firebase.
+
 • Implement animations using modern JavaScript libraries like GSAP or AOS.
+
 • Expand portfolio with new projects and certifications.
